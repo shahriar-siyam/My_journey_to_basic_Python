@@ -8,3 +8,4 @@ elif year%4==0:
         print("Leap-Year it is")
 else:
     print("Not Leap Year")
+    print("The program was a success")
