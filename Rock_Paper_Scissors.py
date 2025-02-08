@@ -27,7 +27,7 @@ def rps():
         print("player wins")
     elif player=="r" and computer=="p":
         print("computer wins")
-    elif player == "p" and computer == "s":
+    elif player == "p" and computer == "s" :
         print("computer wins")
     elif player == "p" and computer == "r":
         print("player wins")
